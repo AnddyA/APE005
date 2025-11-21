@@ -5,7 +5,7 @@
 ```bash
 https://github.com/AnddyA/APE005/tree/feature/htpp_client
 ```
-### 2. Abre el repositorio en VC
+### 2. Abre el repositorio en Visual Code
 
 ### 3. Ejecuta el proyecto con Live Server
 ```
@@ -15,9 +15,9 @@ Clic derecho → Open with Live Server
 
 ##Estructura del proyecto
 
-├── index.html
-├── style.css
-└── script.js
+-├── index.html
+-├── style.css
+-└── script.js
 
 ##Registro de resultados
 | Método | URL                                                                                          | Código de estado | Tiempo respuesta | Observaciones CORS   |
