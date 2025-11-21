@@ -1,21 +1,24 @@
 # APE005
 
-Los cambios fueron realizados en la rama:
-- feature/http-client
+## Instalación
+### 1. Clonar el repositorio
+```bash
+https://github.com/AnddyA/APE005/tree/feature/htpp_client
+```
+### 2. Abre el repositorio en VC
 
+### 3. Ejecuta el proyecto con Live Server
+```
+Abre el archivo index.html
+Clic derecho → Open with Live Server
+```
 
-Comandos utilizados:
-- git add .
-- git commit -m "Implementación de práctica HTTP client"
-- git push origin feature/http-client
-
-#Estructura del proyecto
-/
+##Estructura del proyecto
 ├── index.html
 ├── style.css
 └── script.js
 
-#Registro de resultados
+##Registro de resultados
 | Método | URL                                                                                          | Código de estado | Tiempo respuesta | Observaciones CORS   |
 | ------ | -------------------------------------------------------------------------------------------- | ---------------- | ---------------- | -------------------- |
 | GET    | [https://api.sampleapis.com/futurama/characters](https://api.sampleapis.com/futurama/characters) | 200              | 123 ms           | CORS permitido (`*`) |
