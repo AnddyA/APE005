@@ -14,11 +14,12 @@ Clic derecho → Open with Live Server
 ```
 
 ##Estructura del proyecto
-
+```
+/APE005
 -├── index.html
 -├── style.css
 -└── script.js
-
+```
 ##Registro de resultados
 | Método | URL                                                                                          | Código de estado | Tiempo respuesta | Observaciones CORS   |
 | ------ | -------------------------------------------------------------------------------------------- | ---------------- | ---------------- | -------------------- |
