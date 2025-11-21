@@ -14,6 +14,7 @@ Clic derecho → Open with Live Server
 ```
 
 ##Estructura del proyecto
+
 ├── index.html
 ├── style.css
 └── script.js
